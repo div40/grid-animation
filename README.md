@@ -1,5 +1,5 @@
-A smooth dtaggered grid animation powered by Framer Motion
-Check out live here
+A smooth staggered grid animation powered by Framer Motion <br />
+Check out live [here](https://staggered-grid-animation.netlify.app/) <br />
 Read the blog post about how it is done [here](https://portfolio-div.vercel.app/blog/create-stunning-staggered-grid-animation)
 ## Getting Started
 
