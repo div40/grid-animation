@@ -1,4 +1,6 @@
-
+A smooth dtaggered grid animation powered by Framer Motion
+Check out live here
+Read the blog post about how it is done [here](https://portfolio-div.vercel.app/blog/create-stunning-staggered-grid-animation)
 ## Getting Started
 
 First, run the development server:
